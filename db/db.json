@@ -1,0 +1,59 @@
+[
+    {
+    "id": "1",
+    "name": "Chama",
+    "description": "Chama é a amostra de DNA do Omnitrix de um Pyronita da estrela Pyros."
+    },
+
+    {
+    "id": "2",
+    "name": "Besta",
+    "description": "Besta é a amostra de DNA do Omnitrix de um Vulpimancer do planeta Vulpin."
+    },
+
+    {
+    "id": "3",
+    "name": "Diamante",
+    "description": "Diamante é a amostra de DNA do Omnitrix de um Petrosapien do planeta Petropia."
+    },
+
+    {
+    "id": "4",
+    "name": "XLR8",
+    "description": "XLR8 é a amostra de DNA do Omnitrix de um Kinecelerano do planeta Kinet."
+    },
+
+    {
+    "id": "5",
+    "name": "Massa Cinzenta",
+    "description": "Massa Cinzenta é a amostra de DNA do Omnitrix de um Galvaniano do planeta Galvan Prime."
+    },
+    
+    {
+    "id": "6",
+    "name": "Quatro Braços",
+    "description": "Quatro Braços é a amostra de DNA do Omnitrix de um Tetramende do planeta Khoros."
+    },
+
+    {
+    "id": "7",
+    "name": "Insectóide",
+    "description": "Insectóide é a amostra de DNA do Omnitrix de um Lepidopterrano do planeta Lepidopterra."
+    },
+
+    {
+    "id": "8",
+    "name": "Aquático",
+    "description": "Aquático é a amostra de DNA do Omnitrix de um Pisccis volann do planeta Picciss."
+    },
+    {
+    "id": "9",
+    "name": "Ultra T",
+    "description": "Ultra T é a amostra de DNA do Omnitrix de um Mecamorfo galvânico da lua Galvan B."
+    },
+    {
+    "id": "10",
+    "name": "Fantasmático",
+    "description": "Fantasmático é a amostra de DNA do Omnitrix de um Ectonurita do planeta Anur Phaetos."
+    }
+]
